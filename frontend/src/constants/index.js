@@ -47,3 +47,24 @@ export const CompanyFooter = [
     title: "Privacy policy",
   },
 ];
+
+export const DoctorsSpecifications = [
+  { 
+    title: "General physician"
+  },
+  { 
+    title: "Gynecologist"
+  },
+  { 
+    title: "Dermatologist"
+  },
+  { 
+    title: "Pediatricians"
+  },
+  { 
+    title: "Neurologist"
+  },
+  { 
+    title: "Gastroenterologist"
+  },
+]
